@@ -72,6 +72,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Singhal-Kashish/Singhal-Kashish/output/snake.svg" alt="Snake animation" />
 
 ###
